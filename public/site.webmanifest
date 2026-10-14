@@ -1,0 +1,30 @@
+{
+  "name": "PDF Faiz",
+  "short_name": "PDF Faiz",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#f6f1e8",
+  "file_handlers": [
+    {
+      "action": "/",
+      "accept": {
+        "application/pdf": [".pdf"]
+      }
+    }
+  ],
+  "icons": [
+    {
+      "src": "/pdf-faiz-logo.svg",
+      "sizes": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "/pdf-faiz-logo.svg",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
