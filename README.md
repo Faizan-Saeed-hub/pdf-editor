@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><strong>Use the app</strong></a>
+  <a href="https://pdf-editor1.netlify.app/#/"><strong>Use the app</strong></a>
   ·
   <a href="#privacy-first-by-design">Privacy model</a>
   ·
@@ -31,8 +31,8 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img alt="Live app" src="https://img.shields.io/badge/live-your-netlify-site.netlify.app-f97316?style=flat-square&logo=cloudflarepages&logoColor=white">
+  <a href="https://pdf-editor1.netlify.app/#/">
+    <img alt="Live app" src="https://img.shields.io/badge/live-pdf--editor1.netlify.app-00ad9f?style=flat-square&logo=netlify&logoColor=white">
   </a>
   <a href="./LICENSE">
     <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-111827?style=flat-square">
